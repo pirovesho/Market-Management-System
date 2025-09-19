@@ -1,0 +1,8 @@
+001   Lays                     Cokollate      3         60        78.3    78             L       
+002   Oreos                    Biskota        30        56        34.6    34             O       
+003   Biskrem                  Biskota        36        46.5      32.67   32             B       
+004   Dardhe                   Fruta          36        54.7      56      56             D       
+005   Ballokume                Biskote        3         56        98.6    98             B       
+006   Dardhe                   Fruta          36        54.7      56      56             D       
+007   Ballokume                Biskote        2         56        98.6    98             B       
+008   Kinder                   Cokollate      9         90        100     100            C       
